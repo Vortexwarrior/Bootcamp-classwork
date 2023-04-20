@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 
+=======
+/* universal selector */
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+<<<<<<< HEAD
+=======
+/* element selectors */
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
 body {
     background-color: #d9dcd6;
 }
@@ -16,13 +24,22 @@ body {
     color: #ffffff;
 }
 
+<<<<<<< HEAD
 .header h1 {
+=======
+h1 {
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
     display: inline-block;
     font-size: 48px;
 }
 
+<<<<<<< HEAD
 .header h1 .seo {
     color: #d9dcd6;
+=======
+.seo {
+    color: #d6d8dc;
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
 }
 
 .header div {
@@ -87,24 +104,40 @@ p {
     background-color: #2589bd;
 }
 
+<<<<<<< HEAD
 .lead {
+=======
+.benefit {
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+<<<<<<< HEAD
 .h3 {
+=======
+h3 {
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
     margin-bottom: 10px;
     text-align: center;
 }
 
+<<<<<<< HEAD
 .img {
+=======
+.benefit img {
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+<<<<<<< HEAD
 
 .search-engine-optimization {
+=======
+.services {
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -113,6 +146,7 @@ p {
     color: #ffffff;
 }
 
+<<<<<<< HEAD
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -136,6 +170,17 @@ p {
 }
 
 .h2 {
+=======
+.services img {
+    max-height: 200px;
+}
+
+.services h2 {
+    max-height: 200px;
+}
+
+.h3 {
+>>>>>>> d255cf7269dd8de2437dc81906c0797baf22e8a4
     margin-bottom: 20px;
     font-size: 36px;
 }
